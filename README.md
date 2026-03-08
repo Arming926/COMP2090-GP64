@@ -1,7 +1,7 @@
 <p align="center">
      <img src="image/friends group.avif" width="400">
 
-## schooping-system
+## Schooping-system
 
 [MA Haochen](https://github.com/mhczxg-commits), [LUO Kong Fai](https://github.com/robu-dga), [Kelvin Cheng](https://github.com/Arming926)
 

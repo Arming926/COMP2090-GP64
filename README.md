@@ -7,6 +7,13 @@
 
 Schooping-system is a system which provides a platform to find teammates for any activities.
 
+For those who are fear to social with others in reality, it is recommended to try Schooping-system
+
 Whatever you are finding friends or study partners
 
 You can try Schooping-system ! 
+
+## <a name="Statement"></a>:underage:Statement
+
+# We do not recommend minors use our system.
+Users are responsible for their own actions, and we bear no responsibility whatsoever.

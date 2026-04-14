@@ -101,6 +101,13 @@ Performs heap sort and returns groups sorted from fewest to most members
 
 ✅ Ideal for coursework and academic projects
 
+<p align="center">     
+<img src="team.jpg" width="400">
+
+<p align="center">Working together never feel alone 
+together makes us home！！！
+
+
 
 
 ## <a name="Statement"></a>:underage:Statement

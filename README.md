@@ -44,7 +44,7 @@ The system uses a Max-Heap to maintain group member counts and Heap Sort to sort
 6. Automatic allocation: New students join the group with the fewest members
 7. Re-sort automatically after each assignment to maintain balance
 
-## 🧠 Algorithm Explanation
+## 🧠Algorithm Explanation
 
 ### Max-Heap
 - Uses group member count as the sorting key
@@ -78,6 +78,7 @@ Implements a max-heap to efficiently manage group sizes
 ### heap_sort_groups Function
 Performs heap sort and returns groups sorted from fewest to most members
 
+
 ## 🚀Program Workflow
 
 1. Initialize 4 groups with a maximum size of 5
@@ -86,6 +87,7 @@ Performs heap sort and returns groups sorted from fewest to most members
 4. Automatically assign 4 new students
 5. Re-sort after each assignment
 6. Display final group sizes
+
 
 ## 💡Key Advantages
 

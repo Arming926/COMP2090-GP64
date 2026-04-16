@@ -157,6 +157,10 @@ For the convenience of grading, you may use the following pre-registered account
 - Username: Boss
 - Password: 123
 
+
+<p align="center">
+     <img src="/image/friends group.avif" width="400">
+
 ## <a name="Statement"></a>:underage:Statement
 
 # We do not recommend minors use our system.

@@ -21,6 +21,7 @@ You can try Schooping-system !
 ## 📖Table of Contents
 
 - [Key Features](#key-features)
+- [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
 - [User Guide](#user-guide)
 - [Trouble Shooting](#trouble-shooting)
@@ -34,6 +35,12 @@ You can try Schooping-system !
 - **Dynamic Status Tracking**: Real-time updates for members regarding their application status, with instant system notifications if a group is disbanded or if a member is removed.
 
 - **Defensive Programming**: Robust validation logic to prevent edge cases such as joining multiple groups simultaneously, exceeding member limits, or invalid user inputs.
+
+## 📋Prerequisites     
+
+Before running the program, ensure you have the following installed:
+
+✅ Python 3.8 or higher.
 
 ## 📥Quick Start
  

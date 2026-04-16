@@ -186,7 +186,6 @@ For the convenience of grading, you may use the following pre-registered account
 
 ## Heap-Group-System: Automatic Student Group Balancing System
 
-[Your Name](https://github.com/your-username)
 
 Heap-Group-System is a system that automatically balances student groups using **Max Heap** and **Heap Sort**.
 

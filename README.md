@@ -159,7 +159,7 @@ For the convenience of grading, you may use the following pre-registered account
 
 
 <p align="center">
-     <img src="/image/friends group.avif" width="400">
+     <img src="/image/friends group.avif" width="500">
 
 ## <a name="Statement"></a>:underage:Statement
 

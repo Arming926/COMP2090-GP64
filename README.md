@@ -114,6 +114,9 @@ together makes us home！！！
 
 ## 🚀Schooping1 User Guide
 
+<p align="center">     
+<img src="/image/login and register.png" width="200">
+
 Welcome to Schooping! This guide will help you set up and run the Group Management System on your local machine.
 
 ## 📋 Prerequisites     
@@ -174,9 +177,7 @@ For the convenience of grading, you may use the following pre-registered account
 </div>
 
 
-## Simulation
-<p align="center">     
-<img src="/image/login and register.png" width="200">
+
 
 ## 🚀Schooping2 User Guide
 

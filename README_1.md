@@ -15,8 +15,8 @@ Whatever you are finding friends or study partners
 
 You can try Schooping-system ! 
 
-<p align="center">     
-<img src="/image/login and register.png" width="200">
+<p align="center">
+     <img src="/image/friends group.avif" width="300">
 
 ## 📖Table of Contents
 
@@ -36,18 +36,21 @@ You can try Schooping-system !
 - **Defensive Programming**: Robust validation logic to prevent edge cases such as joining multiple groups simultaneously, exceeding member limits, or invalid user inputs.
 
 ## 📥Quick Start
-
+ 
 1. Click into main profile of our Schooping system
-2. Click the green 「<> Code」 button
+2. Click the green 「 ![Code](https://img.shields.io/badge/--%3C%3E%20Code-brightgreen?style=for-the-badge)」 button
 3. Click the download ZIP
 4. Unzip the file you download
 5. Double click the .py file to run the program
-6. Enjoy your experience
+6. Enjoy your experience👍
 
 ## 📖User Guide
 
 ### 1.Initial Access
 Upon launching, you will see the Welcome Menu:
+<p align="center">
+     <img src="/image/login and register.png" width="400">
+
 - Register: Create a new account.
 - Login: Enter your credentials to access the system.
 
@@ -62,7 +65,7 @@ Once logged in, the system determines your role based on your status:
 
 ## 🛠️Trouble shooting
 
-- ModuleNotFoundError: This program uses the Python Standard Library only (abc, math, etc.), so no external pip install is required. If you encounter errors, ensure you are running Python 3.
+- ModuleNotFoundError: This program uses the Python Standard Library only (`abc`, `math`, etc.), so no external pip install is required. If you encounter errors, ensure you are running Python 3.
 - Input Errors: If you enter an invalid menu option, the system will prompt you with a "Warning" message and allow you to try again without crashing.
 
 ## 🛠Technical Architecture
@@ -70,8 +73,8 @@ Once logged in, the system determines your role based on your status:
 This project strictly adheres to the **Four Pillars of Object-Oriented Programming (OOP)**:
 - **Abstraction**: Utilizes abc.ABC to define a User base class, enforcing a structural contract for all subclasses.
 - **Inheritance**: Establishes a clear hierarchy where Leader inherits from Member, and Member inherits from User.
-- **Encapsulation**: Protects data integrity using private attributes (e.g., __MAX_SIZE) and object referencing (joined_group_obj) to manage internal states.
-- **Polymorphism**: Implements method overriding for show_menu(), allowing a single interface call to execute role-specific behaviors.
+- **Encapsulation**: Protects data integrity using private attributes `__MAX_SIZE` and object referencing `joined_group_obj` to manage internal states.
+- **Polymorphism**: Implements method overriding for `show_menu()`, allowing a single interface call to execute role-specific behaviors.
 
 ## 👥Demo Credentials
 

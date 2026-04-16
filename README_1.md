@@ -56,6 +56,9 @@ Upon launching, you will see the Welcome Menu:
 
 ### 2. Role Selection
 Once logged in, the system determines your role based on your status:
+<p align="center">
+     <img src="/image/COJ.png" width="400">
+
 - No Group: You will be asked to choose between (1) Create a Group [Leader] or (2) Join a Group [Member].
 - In a Group: The system will automatically load your specific management or member menu.
 
@@ -97,7 +100,9 @@ For the convenience of grading, you may use the following pre-registered account
 </pre>
 </div>
 
-## <a name="Statement"></a>:underage:Statement
+<p align="center">
+     <img src="/image/Nominor.png" width="100">
+
 
 # We do not recommend minors use our system.
 Users are responsible for their own actions, and we bear no responsibility whatsoever.

@@ -124,18 +124,15 @@ For those who need to quickly and fairly assign students to groups, this system 
 Whether you are managing course projects or activity teams,
 You can try Heap-Group-System!
 
----
 
 ## 📚 Contents
 - [Purpose](#purpose)
 - [System Requirements](#system-requirements)
 - [Program Structure](#program-structure)
 - [How to Run](#how-to-run)
-- [Expected Output](#expected-output)
-- [Customization Guide](#customization-guide)
-- [Key Features](#key-features)
 
----
+
+
 
 ### Purpose
 Heap-Group-System automatically assigns new students to the **least crowded group** using Max Heap and Heap Sort, ensuring balanced team sizes.
